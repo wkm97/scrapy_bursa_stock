@@ -1,6 +1,9 @@
-Need modify scrapy codebase to enable request parameter.
+# Enable REST API using scrapyrt
+
+Need modify scrapyrt codebase to enable request parameter.
 Reference: https://github.com/scrapinghub/scrapyrt/issues/29
 
+# Starting scrap stock price service.
 cd to working directory
 scrapyrt -p 8080
 
